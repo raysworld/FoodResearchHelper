@@ -1,0 +1,1 @@
+pyuic5 -o ui_test.py frhelper.ui
